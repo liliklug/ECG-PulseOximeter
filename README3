@@ -1,0 +1,33 @@
+# Visualisierung
+
+Dieser Ordner enthält die Software zur Darstellung
+
+der Messdaten.
+
+## Geplante Funktionen
+
+- Kontinuierliche Darstellung des EKG-Signals
+
+- Anzeige der Herzfrequenz in BPM
+
+- Anzeige der Sauerstoffsättigung (SpO2)
+
+- Anzeige des Bluetooth-Verbindungsstatus
+
+## Entwicklungsumgebung
+
+Noch festzulegen.
+
+## Erste Entwicklungsschritte
+
+1. Benutzeroberfläche planen
+
+2. Simulierte Messdaten erstellen
+
+3. EKG-Kurve darstellen
+
+4. Herzfrequenz und SpO2 anzeigen
+
+5. Bluetooth-Datenempfang integrieren
+
+6. Darstellung mit echten Sensordaten testen
